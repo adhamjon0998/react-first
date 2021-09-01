@@ -1,0 +1,45 @@
+nav ul {
+    display: flex;
+
+}
+
+li {
+    list-style: none;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: #3e3e3e;
+}
+
+nav ul li a {
+    padding: 0 10px;
+    margin-right: 20px;
+    color: #fff;
+    text-decoration: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+    .nav-logo {
+        animation: App-logo-spin infinite 20s linear;
+    }
+}
+
+@keyframes nav-logo-spin {
+    from {
+        transform: rotate(0deg);
+    }
+
+    to {
+        transform: rotate(360deg);
+    }
+}
+body{
+    background: url(../navbar/images/05.Jun.2019-pejzazh-dorogi-v-gorah-4k.jpg);
+    background-repeat: no-repeat;
+    background-size: cover ;
+    width: 100%;
+    height: 100%;
+}
