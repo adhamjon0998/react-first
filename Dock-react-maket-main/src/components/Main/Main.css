@@ -1,0 +1,44 @@
+.startMain{
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 18px;
+    color: #FFFFFF;
+    background: #4058FF;
+    box-shadow: 0px 4px 4px rgba(18, 23, 34, 0.01);
+    border-radius: 100px;
+    text-decoration: none;
+    padding: 15px 32px;
+    margin-top: 21px;
+    display: inline-block;
+}
+.headerTitle{
+    margin-top: 70px;
+}
+.titleMain{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 50px;
+    line-height: 50px;
+    color: #121722;
+    max-width: 400px;
+    margin-bottom: 20px;
+}
+.subtitleMain{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 27px;
+    color: rgba(18, 23, 34, 0.7);
+    margin-bottom: 0;
+}
+.imgMain img{
+    width: 100%;
+}
+
+
+
+/*  =======================================  main media =========================================== */
+
+
+

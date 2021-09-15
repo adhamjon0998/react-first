@@ -1,0 +1,44 @@
+.getContent{
+    background: #4058FF;
+    border-radius: 16px;
+    min-height: 346px;
+    padding: 10px 15px ;
+}
+
+.getTitle h2{
+    font-weight: 400;
+    font-size: 34px;
+    line-height: 38px;
+    text-align: center;
+    color: #FFFFFF;
+}
+.getContent{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.getTitle a{
+    display: inline-block;
+    text-decoration: none;
+    background: #FFFFFF;
+    box-shadow: 0px 4px 4px rgba(18, 23, 34, 0.01);
+    border-radius: 100px;
+    padding: 14px 32px;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 18px;
+    text-align: center;
+    color: #4058FF;
+    margin-top: 18px;
+    text-transform: capitalize;
+
+}
+.getTitle{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.getStarted{
+    padding-bottom: 60px;
+}

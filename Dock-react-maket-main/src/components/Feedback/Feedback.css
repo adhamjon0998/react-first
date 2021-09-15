@@ -1,0 +1,36 @@
+.feedBack{
+    background: rgba(255, 244, 245, 0.5);
+    border-radius: 16px;
+    padding: 73px 48px 35px;
+}
+.feedback{
+    margin-bottom: 79px;
+}
+
+.feedbackPic{
+    max-width: 532px;
+}
+.feedbackPic img{
+    width: 100%;
+}
+.feedbackTitle{
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 30px;
+    color: #121722;
+}
+.feedbackText{
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 30px;
+    color: rgba(18, 23, 34, 0.6);
+}
+.feedbackPic{
+    margin-top: 69px;
+}
+.feedbackText{
+    max-width: 523px;
+}
+.feedbakcTitle{
+    max-width: 523px;
+}

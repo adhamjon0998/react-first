@@ -1,0 +1,40 @@
+.startBtn{
+    background: rgba(64, 140, 255, 0.1);
+    border-radius: 20px;
+    margin-left: 16px;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 20px;
+    color: #4058FF;
+    padding: 10px 24px;
+}
+
+.loginBtn{
+    text-decoration: none;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 20px;
+    color: rgba(18, 23, 34, 0.7);
+}
+
+.navbar.Navbar{
+    border-bottom: 1px solid #F2F2F2;
+    margin-bottom: 40px;
+}
+
+.nav-link{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 20px;
+    color: rgba(18, 23, 34, 0.7);
+}
+.nav-link:hover{
+    
+    color: #121722;
+}
+.nav-link.dropdown-toggle:focus{
+    color: #121722;
+}

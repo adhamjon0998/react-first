@@ -1,0 +1,53 @@
+.uplevel{
+    margin-bottom: 24px;
+  
+}
+.uplevelContent{
+    background: #121722;
+    border-radius: 16px;
+    padding: 80px 61px;
+    padding-right: 23px;
+}
+.textTitleUp{
+    max-width: 300px;
+}
+.textSubUp{
+    max-width: 300px;
+}
+.uplevelTitle{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 36px;
+    line-height: 42px;
+    text-align: center;
+    color: #121722;
+}
+.uplevelTop{
+    margin-bottom: 48px;
+}
+.uplevelSub{
+    font-weight: 400;
+    font-size: 21px;
+    line-height: 32px;
+    text-align: center;
+    color: rgba(18, 23, 34, 0.7);
+}
+
+.textTitleUp{
+    font-weight: 400;
+    font-size: 34px;
+    line-height: 38px;
+    color: #FFFFFF;
+}
+.textSubUp{
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 29px;
+    color: #B9C0D5;
+}
+.uplevelPic{
+    width: 100%;
+}
+.uplevelPic img{
+    width: 100%;
+}

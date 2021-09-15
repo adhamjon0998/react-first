@@ -1,0 +1,63 @@
+.explorePic{
+    width: 260px;
+    border-radius: 8px;
+}
+.explorePic img{
+    width: 100%;
+}
+.explore{
+    padding-bottom: 79px;
+}
+
+.exploreBox h4{
+    max-width: 245px;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 27px;
+    color: #121722;
+    text-transform: capitalize;
+}
+.exploreBox span{
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 20px;
+    letter-spacing: 0.5px;
+    text-transform: uppercase;
+    color: rgba(18, 23, 34, 0.46);
+}
+.exploreTitle{
+    margin-bottom: 48px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.exploreTitle h3{
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 42px;
+    text-align: center;
+    color: #121722;
+}
+.exploreTitle p{
+font-weight: 400;
+font-size: 21px;
+line-height: 32px;
+text-align: center;
+color: rgba(18, 23, 34, 0.7);
+margin-bottom: 0;
+}
+.exploreTitle a{
+    display: inline-block;
+    margin-top: 16px;
+    background: rgba(64, 140, 255, 0.1);
+    border-radius: 34px;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 20px;
+    text-align: center;
+    color: #4058FF;
+    text-decoration: none;
+    padding: 13px 22px 16px 24px;
+}

@@ -1,0 +1,73 @@
+.textTitle{
+    max-width: 683px;
+    text-align: center;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 42px;
+    text-align: center;
+    color: #121722;
+}
+.topText{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.Transform{
+    padding-top: 103px;
+}
+.subText{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 21px;
+    line-height: 32px;
+    text-align: center;
+    color: rgba(18, 23, 34, 0.7);
+    
+}
+.transform{
+    border-radius: 16px;
+    background: #4058FF;
+    padding: 80px 33px;
+    padding-right: 15px;
+
+}
+.clientTitleText{
+    max-width: 360px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 34px;
+    line-height: 38px;
+    color: #FFFFFF;
+    margin-bottom: 20px;
+}
+.topText{
+    margin-bottom: 48px;
+}
+.clientSub{
+    max-width: 310px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 29px;
+    color: #E8F1FF;
+}
+.clientSpan{
+    display: block;
+    background: #4B93FF;
+    height: 1px;
+    width: 100%;
+    max-width: 360px;
+    margin-top:44px ;
+    margin-bottom: 19px;
+}
+.clientSocial{
+    margin-top: 14px;
+}
+.transformPic img{
+    width: 100%;
+}
+
+/* ==================================== media =============================== */
+
+
